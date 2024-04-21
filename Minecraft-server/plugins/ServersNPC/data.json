@@ -1,0 +1,88 @@
+[
+  {
+    "id": 2,
+    "hologramHeight": 3.0,
+    "skin": "",
+    "signature": "",
+    "skinName": "Steve",
+    "location": {
+      "world": "world",
+      "x": -59.5,
+      "y": 145.625,
+      "z": 0.5,
+      "yaw": -78.755615,
+      "pitch": 45.749916
+    },
+    "npcType": "PLAYER",
+    "hologramLines": [
+      "&epara-entrar"
+    ],
+    "refreshSkinDuration": 0,
+    "clickActions": [],
+    "npcEquip": {},
+    "npcFunctions": {
+      "holo": true
+    },
+    "customizationMap": {}
+  },
+  {
+    "id": 1,
+    "hologramHeight": 0.0,
+    "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcwNjAwMjk3NjIwOSwKICAicHJvZmlsZUlkIiA6ICJiMjVmMzQyY2U1YzE0ODg5OTgxNDUwYmE0ZGNjNzYxZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJmYWZubmVyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M3ODA2NjJkYzFlNjI1YWVhY2U5NWE5NWMzMjMzYmJlMDNmOTBhZTVkYTFlZjU2OTBmMDI5MzYyM2MyZmE5ZWMiCiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzIzNDBjMGUwM2RkMjRhMTFiMTVhOGIzM2MyYTdlOWUzMmFiYjIwNTFiMjQ4MWQwYmE3ZGVmZDYzNWNhN2E5MzMiCiAgICB9CiAgfQp9",
+    "signature": "gcHOOHgFjSFz3uU+VxaYrkMspgDoYC/GGVM0owqx7Iw36zvEVvoK+23rCz7affcG82EVuyd39HwlzhOXBid5Dz7P1/OuUUOIV6A/ZeVqjKzlkl53y6BmsobsQysDzeLaQo6HW6tPUNwFNMMaWALi7su2qKGijoClCdzvBh/P/rnJQMF8ja9ZIN+AAZSsgO0k+EqidMBsnBTyuGP/7p/rZY42Xk/iaF25fxR3ZGdxmDPK0KpFw1ksCdjAAkuQSwDGg1DYL6okiyK9ghpdN6tBINxJLnZ6K7HW6Nvp7zSvmwv45SqFt3YfAs3M/OHLzwhTscIDxh57cdZHI6GCXdxQDARXHxnwmC7SH6uPlFxMuwNaSVxTTgPBYV2hflJLVGk2X4FErnfCMdZSDkONnv9jdAJckVAHn9JDtVAmePoxRqrX9VrJcEevoOZdgmc1ld95Yg+xyfCyahu2hjeYSsxjQwjEyIB9sq4gbn7+8V1E5Q/YyfJ4QHRrYp9NuXEuDp+YGTIm6dZbmOfnSn+gINwt7knfPPD4kwdp2FtFus0y4jT0QBW3XKqMXqCvGVz0isMxOwmR5dAzq8BhXoBCbBXxEGHhHIqoTHzm5paOcp3lfB6VEZCrG7Vdyif+7Sg5Bm2f4/DOfEQ+3yNxkGuEdz0OkMyx2xW+6RN5m0yyGLgeo7A=",
+    "skinName": "fafnner",
+    "location": {
+      "world": "world",
+      "x": -59.5,
+      "y": 148.8125,
+      "z": 0.5,
+      "yaw": -85.5,
+      "pitch": 62.400024
+    },
+    "npcType": "PLAYER",
+    "hologramLines": [
+      "&eDa-click"
+    ],
+    "refreshSkinDuration": 0,
+    "clickActions": [
+      {
+        "actionType": "CONSOLE",
+        "clickType": "DEFAULT",
+        "action": "mv tp %player_name% Survival",
+        "delay": 0
+      }
+    ],
+    "npcEquip": {},
+    "npcFunctions": {
+      "holo": true,
+      "look": true
+    },
+    "customizationMap": {}
+  },
+  {
+    "id": 3,
+    "hologramHeight": 4.0,
+    "skin": "",
+    "signature": "",
+    "skinName": "Steve",
+    "location": {
+      "world": "world",
+      "x": -59.5,
+      "y": 145.0,
+      "z": 0.5,
+      "yaw": -88.35095,
+      "pitch": 61.200073
+    },
+    "npcType": "PLAYER",
+    "hologramLines": [
+      "&a&lSurvival"
+    ],
+    "refreshSkinDuration": 0,
+    "clickActions": [],
+    "npcEquip": {},
+    "npcFunctions": {
+      "holo": true
+    },
+    "customizationMap": {}
+  }
+]

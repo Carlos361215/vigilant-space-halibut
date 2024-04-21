@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1%0
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713480864868
+  login: 1713478005113
+money: '0'
+last-account-name: Carlosgg24
+lastlocation:
+  world: ed024987-71ac-45f3-a74e-97b73e8607cb
+  world-name: warps
+  x: -212.56744779841637
+  y: 62.619010462246464
+  z: -114.44426986001316
+  yaw: 138.75067138671875
+  pitch: 65.69974517822266
+logoutlocation:
+  world: d6a15732-6552-458b-a74d-a7cf4e04b352
+  world-name: Survival
+  x: -13.247747115254459
+  y: 75.875
+  z: 22.294806418529888
+  yaw: -178.1942901611328
+  pitch: 27.300012588500977
